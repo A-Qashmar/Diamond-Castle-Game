@@ -55,7 +55,7 @@ smooth animations, collision detection, and double jump mechanics.
 - Double jump when on a platform to reach higher diamonds
 
 ## Project Details
-- **Duration:** Spring 24 - Multimedia Programming Course
+- **Duration:** Spring 2024 - Multimedia Programming Course
 - **Type:** JavaFX Game Application
 - **Complexity:** Intermediate
 - **Learning Concepts:** Event handling, animation, collision detection
